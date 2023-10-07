@@ -9,5 +9,3 @@ Skillset/Tools known: Selenium, Selenide,Playwright, Rest Assured, SoapUI, Postm
 - 📫 How to reach me: karthik9629846380@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Karthikkumarjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthikkumarjain/)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikkumarjain&show_icons=true)
