@@ -1,7 +1,7 @@
 ### Hi there 👋, I'am Karthik Kumar
 #### Software Quality Engineer
 
-Skillset/Tools known: HTML, CSS, Bootstrap, Selenium, Selenide, Playwright, Rest Assured, SoapUI, Postman, JMeter, Maven, GIT, Cucumber, JUnit, TestNG, Java, Python, JavaScript, Maven, Apache Kafka, Oracle, Splunk, Appium, Docker, Kubernetes, WebdriverIO.
+Skillset/Tools known: HTML, CSS, Bootstrap, Selenium, Selenide, Playwright, Rest Assured, SoapUI, Postman, JMeter, Maven, GIT, Cucumber, JUnit, TestNG, Java, Python, JavaScript, Maven, Apache Kafka, Oracle, Splunk, Appium, Docker, Kubernetes, WebdriverIO,K6.
 
 - 🌱 I’m currently learning and growing as a Quality Engineer
 - 👯 I’m looking to collaborate and contribute in any tech talks/conferences. 
